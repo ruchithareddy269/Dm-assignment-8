@@ -1,73 +1,107 @@
 ## Dm-assignment-8
 Tasks
 
-### a) K-Means Clustering from Scratch
+#### a) K-Means clustering from scratch
 
-Implement K-Means clustering from scratch.
-Hints:
-K-Means from Scratch Colab 1
-K-Means from Scratch Colab 2
-K-Means with Supervised Similarity Colab
+hint : https://colab.sandbox.google.com/github/SANTOSHMAHER/Machine-Learning-Algorithams/blob/master/K_Means_algorithm_using_Python_from_scratch_.ipynbLinks to an external site.
 
-### b) Hierarchical Clustering (Not from Scratch)
+or https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynbLinks to an external site.
 
-Implement Hierarchical clustering.
-Hint: Hierarchical Clustering Colab
+another interesting supervised kmeans colab if people like to do : https://developers.google.com/machine-learning/clustering/programming-exerciseLinks to an external site.
 
-### c) Gaussian Mixture Models Clustering (Not from Scratch)
+https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/clustering-supervised-similarity.ipynb?utm_source=ss-clustering&utm_campaign=colab-external&utm_medium=referral&utm_content=clustering-supervised-similarity#scrollTo=eExms-TP8Hn6Links to an external site.
 
-Implement Gaussian Mixture Models clustering.
-Hint: Gaussian Mixture Models Colab
+ 
 
-### d) DB Scan Clustering (Not from Scratch) using PyCaret Library
+#### b) Hierarchical clustering (not from scratch)
 
-Implement DB Scan clustering using the PyCaret library.
-Hints:
-DB Scan with PyCaret Colab
-DB Scan with PyCaret Tutorial
-PyCaret Clustering Tutorial
+hint : https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynbLinks to an external site.
 
-### e) Demonstrate Anomaly Detection using PyOD with Any Usecase
+#### c) Gaussian mixture models clustering (not from scratch)
 
-Implement anomaly detection using PyOD for either univariate or multivariate data.
-Hints:
-Anomaly Detection in Time Series
-Anomaly Detection Colab
+ 
 
-### f) Illustrate Clustering of Time Series Data using Pretrained Models
+hint : https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynbLinks to an external site.
 
-Illustrate clustering of time series data using pretrained models.
-Hints:
-Time Series Clustering Colab 1
-Time Series Clustering Colab 2
-Time Series Clustering Colab 3
-Time Series Clustering Colab 4
-More Time Series Clustering Resources
+ 
 
-### g) Write a Colab to Illustrate Clustering of Documents using State-of-the-Art Embeddings (LLM Embeddings)
+#### d) DB Scan clustering (not from scratch) using pycaret library 
 
-Illustrate clustering of documents using state-of-the-art embeddings.
-Hints:
-Document Clustering Colab 1
-Document Clustering Colab 2
-Document Clustering with Sentence Transformers
-Document Clustering with Word2Vec
-Text Clustering Colab
+Hint: https://pycaret.org/create-model/ Links to an external site. 
 
-### h) Write a Colab for Clustering with Images using Imagebind LLM Embeddings
+https://towardsdatascience.com/clustering-made-easy-with-pycaret-656316c0b080Links to an external site.
 
-Implement clustering with images using Imagebind LLM embeddings.
-Hints:
-Image Clustering with Imagebind LLM Embeddings
-Introduction to Embedding Clustering and Similarity
-Using OpenAI Embeddings for Search Clustering
+http://www.pycaret.org/tutorials/html/CLU101.htmlLinks to an external site.
 
-### i) Write a Colab for Audio Embeddings using Imagebind LLMs
+#### e) Demonstrate anomaly detection using pyOD using any usecase
 
-Create a Colab for audio embeddings using Imagebind LLMs.
-Hints:
-Audio Clustering with PCA
-Audio Clustering Colab
-Audio Clustering with Deep Learning
-Audio Feature Extraction and Clustering
-Please ensure that you provide proper measures of clustering quality for each task. Refer to the attached Colabs for examples and use them as inspiration for your assignments.
+eg: univariate or multivariate 
+
+ 
+
+Hint: https://neptune.ai/blog/anomaly-detection-in-time-seriesLinks to an external site.
+
+https://github.com/ritvikmath/Time-Series-Analysis/blob/master/Anomaly%20Detection.ipynbLinks to an external site.
+
+ 
+
+#### f) Illustrate clustering of timeseries data using pretrained models 
+
+Hint : 
+
+https://github.com/V-MalM/Stock-Clustering-and-Prediction
+
+https://github.com/qianlima-lab/time-series-ptms
+
+https://github.com/effa/time-series-clustering
+
+https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
+Hint; https://github.com/cure-lab/Awesome-time-series#time-series-clusteringLinks to an external site.
+
+https://github.com/qingsongedu/awesome-AI-for-time-series-papers
+
+ 
+
+#### g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
+
+Hint;
+
+https://github.com/simonw/llm-clusterLinks to an external site.
+
+https://simonwillison.net/2023/Sep/4/llm-embeddings/#llm-cluster
+
+ 
+
+https://github.com/UKPLab/sentence-transformers/tree/master/examples/applications/clustering
+
+https://dylancastillo.co/nlp-snippets-cluster-documents-using-word2vec/Links to an external site. 
+
+https://github.com/Ruchi2507/Text-ClusteringLinks to an external site.
+
+ 
+
+#### h) Write a colab for clustering with images using imagebind llm embeddings 
+
+Hint: https://medium.com/@tatsuromurata317/image-bind-metaai-on-google-colab-free-843f30a4977c
+
+https://towardsdatascience.com/introduction-to-embedding-clustering-and-similarity-11dd80b00061Links to an external site.
+
+https://cobusgreyling.medium.com/using-openai-embeddings-for-search-clustering-83840e971e97Links to an external site.
+
+#### i) Write a colab for audio embeddings using imagebind llms
+
+Hint:
+
+https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64
+
+https://mct-master.github.io/machine-learning/2023/04/25/ninojak-clustering-audio.htmlLinks to an external site.
+
+https://ridakhan5.medium.com/audio-clustering-with-deep-learning-a7991d605fa5Links to an external site.
+
+https://www.kaggle.com/code/humblediscipulus/audio-feature-extraction-and-clustering
+
+ 
+
+Please ensure you provide proper measures of clustering quality as well. See attached colabs for examples.
+
+use colabs as inspuiration.
